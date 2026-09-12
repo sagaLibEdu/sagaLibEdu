@@ -1,0 +1,77 @@
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<h3 align="center">Turning ☕ into 💻 since [year]</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New;Coffee-Powered+Coder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
+
+### 🧭 About Me
+
+```yaml
+name: Your Name
+role: Software Engineer
+location: Ludhiana, Punjab, IN
+currently_building: something-cool
+currently_learning: [Rust, System Design]
+fun_fact: "I debug better after 11 PM"
+```
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,git,docker,aws,figma,mongodb" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+</p>
+
+### 🔥 Streak & Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" />
+</p>
+
+### 🎯 What I'm Up To
+
+- 🔭 Currently working on **[Project Name]**
+- 🌱 Learning **[New Skill]**
+- 👯 Looking to collaborate on **open-source projects**
+- 💬 Ask me about **web dev, APIs, or system design**
+- ⚡ Fun fact: **[something quirky about you]**
+
+### 🏆 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6C63FF" alt="Profile views" />
+</p>
+
+<p align="center"><i>⭐ "Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
